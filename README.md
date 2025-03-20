@@ -8,6 +8,6 @@
  Handles battery protection.
  
  ## AMS1117-3.3
- 3.3V Voltage regulaotr for ESP32.
+ 3.3V Voltage regulator for ESP32.
  
  

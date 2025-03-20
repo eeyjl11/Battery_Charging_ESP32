@@ -1,1 +1,3 @@
 *.lck
+
+/battery_charging_esp32-backups/

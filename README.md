@@ -10,4 +10,7 @@
  ## AMS1117-3.3
  3.3V Voltage regulator for ESP32.
  
- 
+ ## TO DO:
+ - Bill of materials
+ - Position file for JLCPCB pick and place
+ - Generate gerber and drill files
